@@ -1,0 +1,12 @@
+{"Gyms":[
+  {"name": "Gym 1",
+  "location": {
+    "latitude": -34.7035466,
+    "longitude": -58.3930756
+  }},
+  {"name": "Gym 2",
+  "location": {
+    "latitude": -34.703450,
+    "longitude": -58.385126
+  }}]
+}
